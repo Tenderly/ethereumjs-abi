@@ -8,6 +8,7 @@
     "@neburo/ethereumjs-util": "^6.0.0"
   },
   "devDependencies": {
+    "utf8": "^3.0.0",
     "coveralls": "^3.0.3",
     "husky": "^2.1.0",
     "istanbul": "^0.4.5",
